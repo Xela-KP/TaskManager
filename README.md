@@ -1,6 +1,6 @@
 # TaskManager API
 
-Welcome to **TaskManager**, your lightweight, “kitchen-style” to-do list REST API. Orders (tasks) come in via HTTP, get cooked (persisted) in SQL Server, and served back with full CRUD support—complete with interactive docs, tests, and a clean, layered design.
+Welcome to **TaskManager**, a light-weight to-do list REST API. Tasks get persisted in SQL Server.
 
 ---
 
